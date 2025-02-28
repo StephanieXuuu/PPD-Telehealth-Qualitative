@@ -14,6 +14,7 @@ To ensure proper documentation of our work, we are making the capstone poster an
 
 ## Contents
 📄 Capstone Report (PDF) - reach out to me if you are interested to review my earlier version, the latest version of paper can be found at https://www.researchgate.net/publication/387348515_Engage_Connect_psychotherapy_improves_social_reward_responsivity_and_reduces_postpartum_depression
+
 📌 Poster summarizing key findings
 
 ## Acknowledgments
