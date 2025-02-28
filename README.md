@@ -1,6 +1,6 @@
 # A Qualitative Study of Participants’ Experiences with Engage & Connect Psychotherapy for Postpartum Depression
 
-This repository contains the capstone project report from the Weill Cornell Graduate School of Medical Sciences, authored by Zihan Xu, Shurui Wu and Yixuan Yu, supervised by Dr. Natalie Benda, Dr. Nili Solomonov, advised by Dr. Jose Fernando Florez-Arango.. The project explores the Engage & Connect psychotherapy program, focusing on its effectiveness in supporting mothers experiencing postpartum depression (PPD).
+This repository contains the capstone project report from the Weill Cornell Graduate School of Medical Sciences, authored by Zihan Xu, Shurui Wu and Yixuan Yu, supervised by Dr. Natalie Benda, Dr. Nili Solomonov, advised by Dr. Jose Fernando Florez-Arango. The project explores the Engage & Connect psychotherapy program, focusing on its effectiveness in supporting mothers experiencing postpartum depression (PPD).
 I acknowledged the supprot by Haotian Ma
 ## Project Overview
 Objective: To qualitatively analyze participant experiences with the Engage & Connect program, a tele-psychotherapy intervention for postpartum depression.
